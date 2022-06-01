@@ -1,0 +1,15 @@
+.block {
+    width: 28px;
+    background-color: #561ee3;
+    position: absolute;
+    bottom: 0px;
+    transition: 0.3s all ease;
+}
+  
+.block_id {
+    position: absolute;
+    color: black;
+    margin-top: -20px;
+    width: 100%;
+    text-align: center;
+}
